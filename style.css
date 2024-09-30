@@ -1,0 +1,67 @@
+h3{
+    text-align: center;
+    font-size:x-large;
+    font-weight:700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#bobo{
+    background-color: silver;
+    align-items: center;
+    border-radius: 20px;
+}
+#bobo .col-md-5 img{
+    width: 70%;
+}
+ .fw-normall{
+    
+    color:blue;
+    text-transform: uppercase;
+}
+.smallPic{
+  margin-left: 18%;
+  text-align: center;
+}
+.h22{
+font-weight: 900;
+color: black;}
+
+.card-body img{
+    width: 100%;
+    margin: 55px 55px 0 0;
+}
+.card-bodyy img{
+    width: 70%;
+    margin: 55px;
+    height: 70%;
+}
+.card-bodyyy img{
+    width: 100%;
+    margin:55px 55px 0 0;
+    height: 70%;
+    
+}
+.h223{
+    font-weight: 900;
+color: black;}
+
+#button{
+    
+    color: black;
+    text-align: center;
+    height: 50%;
+    width: 100%;
+}
+#fotter{
+    background-color: aqua;
+    text-align: center;
+    width: 100%;
+}
+#fotterr{
+    background-color: aqua;
+    text-align: center;
+    width: 100%;
+}
+#companys{
+    text-align: center;
+}
